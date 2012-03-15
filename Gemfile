@@ -2,6 +2,7 @@ source 'http://rubygems.org'
 
 gem 'thin', '1.3.1'
 gem 'sinatra', '1.3.2'
+gem 'patron', '0.4.18'
 
 group :development do
   gem 'rake', '0.9.2'
